@@ -191,6 +191,10 @@ OR
 journalctl -n 100 -f -u neard | ccze -A
 ```
 
+### Create a wallet
+
+Go to the [MyNearWallet website](https://wallet.shardnet.near.org/) to create a wallet
+
 ### Deploy a Staking Pool
 
 Remember that in this example joesoap.factory.shardnet.near
